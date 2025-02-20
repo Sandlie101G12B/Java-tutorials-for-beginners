@@ -6,6 +6,7 @@ Welcome to the Java Tutorials for Beginners! This repository contains a collecti
 
 Before you begin, ensure you have met the following requirements:
 - You have installed [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).
+- You have installed [Apache Maven](https://maven.apache.org/install.html).
 - You have a basic understanding of programming concepts.
 
 ## Installation
