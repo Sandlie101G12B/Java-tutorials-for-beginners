@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 To get started with the tutorials, clone this repository to your local machine using the following command:
  
 ```bash
-git clone https://github.com/your-username/Java-tutorials-for-beginners.git
+git clone https://github.com/Sandlie101G12B/Java-tutorials-for-beginners.git
 ```
 
 ## Usage
