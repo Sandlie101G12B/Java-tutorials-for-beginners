@@ -2,6 +2,12 @@
 
 Welcome to the Java Tutorials for Beginners! This repository contains a collection of tutorials designed to help beginners learn Java programming from scratch.
 
+## Java Advanced Guide
+
+In addition to the beginner tutorials, we now have a Java Advanced Guide for those looking to deepen their knowledge. The advanced guide covers more complex topics and is designed for those who have completed the beginner tutorials or have equivalent experience.
+
+To access the Java Advanced Guide, navigate to the [`java-beginner-to-advanced-guide`](https://github.com/Sandlie101G12B/Java-tutorials-for-beginners/blob/main/java_advanced_guide.md) directory in this repository.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -20,12 +26,6 @@ git clone https://github.com/Sandlie101G12B/Java-tutorials-for-beginners.git
 ## Usage
 
 Follow the tutorials in the order they are presented to build your understanding of Java step-by-step. Each tutorial is located in its own directory and contains a README file with instructions.
-
-## Java Advanced Guide
-
-In addition to the beginner tutorials, we now have a Java Advanced Guide for those looking to deepen their knowledge. The advanced guide covers more complex topics and is designed for those who have completed the beginner tutorials or have equivalent experience.
-
-To access the Java Advanced Guide, navigate to the [`java-advanced-guide`](./java-advanced-guide) directory in this repository.
 
 ## Contributing
 
