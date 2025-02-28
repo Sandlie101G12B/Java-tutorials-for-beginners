@@ -21,6 +21,12 @@ git clone https://github.com/Sandlie101G12B/Java-tutorials-for-beginners.git
 
 Follow the tutorials in the order they are presented to build your understanding of Java step-by-step. Each tutorial is located in its own directory and contains a README file with instructions.
 
+## Java Advanced Guide
+
+In addition to the beginner tutorials, we now have a Java Advanced Guide for those looking to deepen their knowledge. The advanced guide covers more complex topics and is designed for those who have completed the beginner tutorials or have equivalent experience.
+
+To access the Java Advanced Guide, navigate to the [`java-advanced-guide`](./java-advanced-guide) directory in this repository.
+
 ## Contributing
 
 Contributions are welcome! To contribute, follow these steps:
