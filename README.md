@@ -2,7 +2,7 @@
 
 Welcome to the Java Tutorials for Beginners! This repository contains a collection of tutorials designed to help beginners learn Java programming from scratch.
 
-## Java Advanced Guide
+## Java Advanced Beginner to Guide
 
 In addition to the beginner tutorials, we now have a Java Advanced Guide for those looking to deepen their knowledge. The advanced guide covers more complex topics and is designed for those who have completed the beginner tutorials or have equivalent experience.
 
